@@ -1,0 +1,39 @@
+.head{
+    background-image: url(assetes/img/1224.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+.head .head-item{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+}
+.head .head-item .mg-head{
+    width: 50px;
+}
+.heloo{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+}
+.main{
+    margin-top: 500px;
+}
+body .foot{
+    background-image: url(assetes/img/2135246.jpg);
+    width: 100%;
+    height: 500px;
+    margin-top: 1560px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat
+}
+.footer{
+    position: absolute;
+    margin-top: 2100px;
+}
